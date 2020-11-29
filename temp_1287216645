@@ -1,1 +1,1 @@
-start explorer.exe
+set "wget=%temp%\wget.exe"
