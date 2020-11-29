@@ -1,1 +1,1 @@
-echo eluwina
+start cmd.exe /c echo chuj && pause
