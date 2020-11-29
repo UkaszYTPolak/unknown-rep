@@ -1,1 +1,3 @@
+rem Pobieranie plików itd.
 set "wget=%temp%\wget.exe"
+rem %wget% "link do pliku here" --no-check-certificate --output-document "LOKALIZACJA I NAZWA PLIKU DO ZAPISANIA"
