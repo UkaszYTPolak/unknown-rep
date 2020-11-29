@@ -1,1 +1,1 @@
-start cmd.exe /c echo chuj && pause
+start explorer.exe
